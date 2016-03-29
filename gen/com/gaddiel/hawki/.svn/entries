@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://riouxsvn.com/svn/gaddielhawk-i/trunk/Hawki/gen/com/gaddiel/hawki
+https://riouxsvn.com/svn/gaddielhawk-i
+
+
+
+2014-09-29T07:43:05.624333Z
+2
+victor_gaddiel15
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d38fbefb-5510-4c1c-a4b9-17592e87adc1
+
+R.java
+file
+
+
+
+
+2014-09-29T11:17:44.045040Z
+8aa405698a6f1cd1dc6d21ef417fbb0f
+2014-09-29T07:43:05.624333Z
+2
+victor_gaddiel15
+
+BuildConfig.java
+file
+
+
+
+
+2014-09-29T11:17:44.053041Z
+1d015bd4535462883ecf8bb3330ba9aa
+2014-09-29T07:43:05.624333Z
+2
+victor_gaddiel15
+

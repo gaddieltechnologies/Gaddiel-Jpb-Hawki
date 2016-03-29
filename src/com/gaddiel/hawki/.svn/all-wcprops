@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki
+END
+StartAlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/StartAlarmReceiver.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gaddielhawk-i/!svn/ver/9/trunk/Hawki/src/com/gaddiel/hawki/MainActivity.java
+END
+SQLiteOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/SQLiteOperations.java
+END
+BootCompletedIntentReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gaddielhawk-i/!svn/ver/10/trunk/Hawki/src/com/gaddiel/hawki/BootCompletedIntentReceiver.java
+END
+EmpTrackScheduleReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gaddielhawk-i/!svn/ver/6/trunk/Hawki/src/com/gaddiel/hawki/EmpTrackScheduleReceiver.java
+END
+CheckAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gaddielhawk-i/!svn/ver/4/trunk/Hawki/src/com/gaddiel/hawki/CheckAdapter.java
+END
+AlertDialogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/AlertDialogManager.java
+END
+SQLiteoperationCustomerVisit.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gaddielhawk-i/!svn/ver/8/trunk/Hawki/src/com/gaddiel/hawki/SQLiteoperationCustomerVisit.java
+END
+HawkIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gaddielhawk-i/!svn/ver/7/trunk/Hawki/src/com/gaddiel/hawki/HawkIUtils.java
+END
+SQLiteoperationEmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/SQLiteoperationEmp.java
+END
+BackgroundTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/BackgroundTasks.java
+END
+JSONParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/JSONParser.java
+END
+GaddielHawkiSplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/GaddielHawkiSplashScreen.java
+END
+CheckInternetConnectionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/CheckInternetConnectionTask.java
+END
+ConnectionDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/ConnectionDetector.java
+END
+DBController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gaddielhawk-i/!svn/ver/5/trunk/Hawki/src/com/gaddiel/hawki/DBController.java
+END
+StartAlarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gaddielhawk-i/!svn/ver/2/trunk/Hawki/src/com/gaddiel/hawki/StartAlarmService.java
+END

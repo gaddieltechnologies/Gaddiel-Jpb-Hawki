@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/ColID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="ID"
+        android:visibility="gone" />
+
+  <CheckBox
+        android:id="@+id/ColChk"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"/>
+
+    <TextView
+        android:id="@+id/ColCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_weight="1"
+        android:text="Code"
+        android:textColor="#000000" />
+
+   
+
+</LinearLayout>
